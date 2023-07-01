@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/factory/smart-contract" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/feeHandler/smart-contract" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pair/smart-contract" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/router/smart-contract" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/upgradable/smart-contract" vcs="Git" />
+  </component>
+</project>
